@@ -1,2 +1,2 @@
-# css-architecture
+# arquitetura-css
 CSS Architecture
